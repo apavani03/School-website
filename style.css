@@ -66,3 +66,16 @@ input
     height: 400px;
     width:400px;
 }
+.modal-content{
+    margin-top: 100px;
+}
+.img_modal{
+    display: inline-block;
+}
+.p_modal{
+    margin-top: 10px;
+    color: deepskyblue;
+}
+.modal-body{
+    text-align: center;
+}
